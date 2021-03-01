@@ -7,3 +7,11 @@
   text-decoration: none;
   margin: 0 0 0 10px
 }
+
+.image-link {
+  height: 40px;
+}
+
+th, td {
+  padding: 10px;
+}
